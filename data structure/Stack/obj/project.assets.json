@@ -708,9 +708,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kd\\Desktop\\data structure\\data structure\\Stack\\Stack.csproj",
-      "projectName": "Stack",
-      "projectPath": "C:\\Users\\kd\\Desktop\\data structure\\data structure\\Stack\\Stack.csproj",
+      "projectUniqueName": "C:\\Users\\kd\\Desktop\\data structure\\data structure\\Stack\\MyStack.csproj",
+      "projectName": "MyStack",
+      "projectPath": "C:\\Users\\kd\\Desktop\\data structure\\data structure\\Stack\\MyStack.csproj",
       "packagesPath": "C:\\Users\\kd\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kd\\Desktop\\data structure\\data structure\\Stack\\obj\\",
       "projectStyle": "PackageReference",

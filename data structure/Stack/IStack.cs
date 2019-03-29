@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Stack
+namespace MyStack
 {
     public interface IStack<T>
     {

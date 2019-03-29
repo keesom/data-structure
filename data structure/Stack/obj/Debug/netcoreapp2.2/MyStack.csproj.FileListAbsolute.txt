@@ -1,0 +1,14 @@
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\MyStack.deps.json
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\MyStack.runtimeconfig.json
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\MyStack.runtimeconfig.dev.json
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\MyStack.dll
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\MyStack.pdb
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\Array.dll
+C:\Users\kd\Desktop\data structure\data structure\Stack\bin\Debug\netcoreapp2.2\Array.pdb
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.csprojAssemblyReference.cache
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.AssemblyInfoInputs.cache
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.AssemblyInfo.cs
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.csproj.CopyComplete
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.dll
+C:\Users\kd\Desktop\data structure\data structure\Stack\obj\Debug\netcoreapp2.2\MyStack.pdb

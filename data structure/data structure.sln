@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{C0E6683B-C291-4B40-9FB5-1A0E1FB0E9A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{3E6BD7F1-C924-44D7-B107-EBC20A2C1571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStack", "Stack\MyStack.csproj", "{3E6BD7F1-C924-44D7-B107-EBC20A2C1571}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
